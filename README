@@ -5,8 +5,11 @@ TODO: I unfortunately blew away Rail's self styling so the flash message is not 
       Deleting file before write, to guarantee fresh dataset
       Figure out sustainable API auth solution
       Tests
+      lock things down with RVM
 
 To set up: git clone this project
            bundle install
            rails s
+           project runs at localhost:3000/
 
+Notes: requires a minimum of ruby 1.9.x
