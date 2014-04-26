@@ -1,0 +1,12 @@
+TODO: I unfortunately blew away Rail's self styling so the flash message is not showing and I'm out of time
+      General styling
+      Figure out a more generic search implementation (using a given app, etc)i
+      Using batch api to get larger sets
+      Deleting file before write, to guarantee fresh dataset
+      Figure out sustainable API auth solution
+      Tests
+
+To set up: git clone this project
+           bundle install
+           rails s
+
